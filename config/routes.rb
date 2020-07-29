@@ -7,4 +7,4 @@ end
 
 #If we had a User model/controller:
 #get '/users/new', to: 'users#new', as: 'register'
-#can now use register_path 
+#can now use register_path when creating links with link_to 
