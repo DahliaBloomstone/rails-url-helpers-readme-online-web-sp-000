@@ -7,3 +7,4 @@ end
 
 #If we had a User model/controller:
 #get '/users/new', to: 'users#new', as: 'register'
+#can now use register_path 
