@@ -4,3 +4,6 @@ Rails.application.routes.draw do
 end
 
 #This will create routing methods for posts that we can utilize in our views and controllers. Running rails routes in the terminal will give the following output:
+
+#If we had a User model/controller:
+#get '/users/new', to: 'users#new', as: 'register'
